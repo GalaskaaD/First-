@@ -3,6 +3,7 @@ Zmiana 08
 Zmiana 10
 Zmiana 10 a
 Zmiana 10 nowa 
+Zmiana 11
 <<<<<<< HEAD
 naprawa b³êdów - hotfix-001
 =======
