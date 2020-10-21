@@ -1,1 +1,11 @@
 Zmiana 07b
+Zmiana 08
+Zmiana 10
+Zmiana 10 a
+Zmiana 10 nowa 
+<<<<<<< HEAD
+naprawa b³êdów - hotfix-001
+=======
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+>>>>>>> easierApp
